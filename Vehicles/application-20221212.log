@@ -1,0 +1,17 @@
+2022-12-12 16:16:07.135 [main] INFO  org.example.App - Podaj jedną z opcji: CAR, SHIP, PLANE, BICYCLE, ALL, EXIT
+2022-12-12 16:16:08.606 [main] INFO  org.example.App - Wybrałeś opcję: Car
+2022-12-12 16:16:08.609 [main] INFO  org.example.App - Pojazd A4 producenta Audi jest najszybszy. Maksymalna prędkość to: 222
+2022-12-12 16:16:08.609 [main] INFO  org.example.App - Podaj jedną z opcji: CAR, SHIP, PLANE, BICYCLE, ALL, EXIT
+2022-12-12 16:16:09.349 [main] INFO  org.example.App - Wybrałeś opcję: Ship
+2022-12-12 16:16:09.350 [main] INFO  org.example.App - Pojazd RandomShip producenta Sincor jest najszybszy. Maksymalna prędkość to: 350
+2022-12-12 16:16:09.350 [main] INFO  org.example.App - Podaj jedną z opcji: CAR, SHIP, PLANE, BICYCLE, ALL, EXIT
+2022-12-12 16:16:10.690 [main] INFO  org.example.App - Wybierz prawidłową opcję!
+2022-12-12 16:16:10.690 [main] INFO  org.example.App - Podaj jedną z opcji: CAR, SHIP, PLANE, BICYCLE, ALL, EXIT
+2022-12-12 16:16:11.739 [main] INFO  org.example.App - Wybierz prawidłową opcję!
+2022-12-12 16:16:11.739 [main] INFO  org.example.App - Podaj jedną z opcji: CAR, SHIP, PLANE, BICYCLE, ALL, EXIT
+2022-12-12 16:16:11.978 [main] INFO  org.example.App - Wybierz prawidłową opcję!
+2022-12-12 16:16:11.979 [main] INFO  org.example.App - Podaj jedną z opcji: CAR, SHIP, PLANE, BICYCLE, ALL, EXIT
+2022-12-12 16:16:13.797 [main] INFO  org.example.App - Wybrałeś opcję: ALL
+2022-12-12 16:16:13.798 [main] INFO  org.example.App - Ze wszystkich dostępnych pojazdów najszybszy jest LOT producenta Boeing. Jego największa prędkość to 890
+2022-12-12 16:16:13.798 [main] INFO  org.example.App - Podaj jedną z opcji: CAR, SHIP, PLANE, BICYCLE, ALL, EXIT
+2022-12-12 16:16:14.681 [main] INFO  org.example.App - Wybrano zamknięcie programu
